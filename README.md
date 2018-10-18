@@ -22,4 +22,5 @@ The delay between two macros is set to 40 seconds.
 		
 		
 Author: InazumaIkazuchi
+
 Date: 2018-10-18
