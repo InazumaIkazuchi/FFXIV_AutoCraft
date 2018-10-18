@@ -21,5 +21,5 @@ The delay between two macros is set to 40 seconds.
 			- go to the command line and press ctrl+c
 		
 		
-		Author: InazumaIkazuchi
-		Date: 2018-10-18
+Author: InazumaIkazuchi
+Date: 2018-10-18
