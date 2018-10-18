@@ -1,4 +1,5 @@
-##About AutoCraft
+## About AutoCraft
+
 AutoCraft is a crafting script for Final Fantasy XIV(FF14). It simulate the key pressing events.
 The key specified by the user in the command line should be set to in-game macros, which are crafting macros.
 The delay between two macros is set to 40 seconds.
