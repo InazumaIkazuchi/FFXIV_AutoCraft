@@ -33,7 +33,7 @@
 
 #define MAX_SIZE 5
 #define DELAY_IN_MS 5000
-#define WAIT_TIME_IN_MS 40000
+#define WAIT_TIME_IN_MS 45000
 
 char key;
 int n;
