@@ -1,4 +1,4 @@
-## About AutoCraft
+# About AutoCraft
 
 AutoCraft is a crafting script for Final Fantasy XIV(FF14). It simulate the key pressing events.
 The key specified by the user in the command line should be set to in-game macros, which are crafting macros.
@@ -24,3 +24,7 @@ Instruction:
 		
 Author: InazumaIkazuchi  
 Date: 2018-10-18  
+
+## Will I get banned if I use this?
+According to Yoshida, bot will be punished. However, if the player is in front of the computer and is able to control your character at anytime, the player won't get banned. That is, if you use this script to craft while you are playing your phone in front of the computer, you are safe. If you get reported in the game, the GM will PM you and you will only get banned if you can't reply the PM.
+More on this: https://noshilog.com/ff14-crafter-mouse-keyboard-macro (in Japanese)
