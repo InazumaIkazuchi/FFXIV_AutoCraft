@@ -12,7 +12,7 @@ AutoCraft is a crafting script for Final Fantasy XIV(FF14). It needs to be used 
 5. In FFXIV, open your crafting log and choose the item you want to craft. Select the ingredents. Make sure you can start crafting when you press '0' button on your numpad.  
 6. In the command prompt, enter:   
 	```autocraft.exe <keys>```  
-	Where <keys> are the keys of your macros in order.  
+	Where \<keys\> are the keys of your macros in order.  
 7. Switch back to FFXIV in 5 seconds.    
 		
 		
